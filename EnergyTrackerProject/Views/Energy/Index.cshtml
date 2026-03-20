@@ -1,0 +1,36 @@
+﻿@model List<EnergyTrackerProject.Models.EnergyConsumption>
+
+<h2>Energy Consumption</h2>
+
+<a href="/Energy/Create" class="btn btn-primary mb-3">Add Record</a>
+
+<table class="table">
+
+	<tr>
+
+		<th>Date</th>
+
+		<th>Units</th>
+
+		<th>Cost/Unit</th>
+
+		<th>Total</th>
+
+	</tr>
+
+	@foreach (var item in Model)
+	{
+		<tr>
+
+			<td>@item.Date</td>
+
+			<td>@item.UnitsConsumed</td>
+
+			<td>@item.CostPerUnit</td>
+
+			<td>@item.TotalCost</td>
+
+		</tr>
+	}
+
+</table>

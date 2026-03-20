@@ -1,0 +1,18 @@
+﻿@model EnergyTrackerProject.Models.EnergyConsumption
+
+<h2>Add Energy Record</h2>
+
+<form method="post">
+
+	<label>Date</label>
+	<input asp-for="Date" class="form-control" />
+
+	<label>Units</label>
+	<input asp-for="UnitsConsumed" class="form-control" />
+
+	<label>Cost Per Unit</label>
+	<input asp-for="CostPerUnit" class="form-control" />
+
+	<button class="btn btn-success mt-3">Save</button>
+
+</form>

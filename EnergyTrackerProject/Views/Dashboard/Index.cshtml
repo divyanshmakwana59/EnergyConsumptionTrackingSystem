@@ -1,0 +1,122 @@
+﻿<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<div class="row g-4">
+
+	<div class="col-md-4">
+		<div class="card-modern">
+			<h6>Total Devices</h6>
+			<h2>@ViewBag.TotalDevices</h2>
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<div class="card-modern">
+			<h6>Total Energy</h6>
+			<h2>@ViewBag.TotalEnergy kWh</h2>
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<div class="card-modern">
+			<h6>Total Cost</h6>
+			<h2>₹@ViewBag.TotalCost</h2>
+		</div>
+	</div>
+
+</div>
+<div class="row mt-4">
+
+	<div class="col-md-6">
+		<div class="card-modern">
+			<h5>Energy per Device</h5>
+			<canvas id="deviceChart"></canvas>
+		</div>
+	</div>
+
+	<div class="col-md-6">
+		<div class="card-modern">
+			<h5>Energy Distribution</h5>
+			<canvas id="pieChart"></canvas>
+		</div>
+	</div>
+
+</div>
+
+<div class="row mt-4">
+
+	<div class="col-md-12">
+		<div class="card-modern">
+			<h5>Daily Energy Usage</h5>
+			<canvas id="lineChart"></canvas>
+		</div>
+	</div>
+
+</div>
+<script>
+
+	var deviceLabels = @Html.Raw(Json.Serialize(ViewBag.DeviceLabels));
+	var deviceData = @Html.Raw(Json.Serialize(ViewBag.DeviceEnergy));
+
+	var dateLabels = @Html.Raw(Json.Serialize(ViewBag.DateLabels));
+	var dateEnergy = @Html.Raw(Json.Serialize(ViewBag.DateEnergy));
+
+
+	// Bar Chart
+
+	new Chart(document.getElementById("deviceChart"), {
+
+	type: "bar",
+
+	data: {
+	labels: deviceLabels,
+	datasets: [{
+	label: "Energy (kWh)",
+	data: deviceData,
+	backgroundColor: "#38bdf8"
+	}]
+	}
+
+	});
+
+
+	// Pie Chart
+
+	new Chart(document.getElementById("pieChart"), {
+
+	type: "pie",
+
+	data: {
+	labels: deviceLabels,
+	datasets: [{
+	data: deviceData,
+	backgroundColor: [
+	"#38bdf8",
+	"#6366f1",
+	"#22c55e",
+	"#f59e0b",
+	"#ef4444"
+	]
+	}]
+	}
+
+	});
+
+
+	// Line Chart
+
+	new Chart(document.getElementById("lineChart"), {
+
+	type: "line",
+
+	data: {
+	labels: dateLabels,
+	datasets: [{
+	label: "Energy Usage",
+	data: dateEnergy,
+	borderColor: "#22c55e",
+	fill: false
+	}]
+	}
+
+	});
+
+</script>

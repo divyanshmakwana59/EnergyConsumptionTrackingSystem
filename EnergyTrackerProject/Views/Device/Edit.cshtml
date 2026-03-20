@@ -1,0 +1,17 @@
+﻿@model EnergyTrackerProject.Models.Device
+
+<h2>Edit Device</h2>
+
+<form method="post">
+
+	<input type="hidden" asp-for="DeviceId" />
+
+	<label>Device Name</label>
+	<input asp-for="DeviceName" class="form-control" />
+
+	<label>Power Rating</label>
+	<input asp-for="PowerRating" class="form-control" />
+
+	<button class="btn btn-primary mt-2">Update</button>
+
+</form>

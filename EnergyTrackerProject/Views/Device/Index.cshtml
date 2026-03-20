@@ -1,0 +1,23 @@
+﻿<table class="table table-dark">
+
+	<tr>
+		<th>Name</th>
+		<th>Power</th>
+		<th>Actions</th>
+	</tr>
+
+	@foreach (var d in Model)
+	{
+		<tr>
+			<td>@d.DeviceName</td>
+			<td>@d.PowerRating W</td>
+
+			<td>
+				<a href="/Device/Edit/@d.DeviceId" class="btn btn-warning">Edit</a>
+				<a href="/Device/Delete/@d.DeviceId" class="btn btn-danger">Delete</a>
+			</td>
+
+		</tr>
+	}
+
+</table>

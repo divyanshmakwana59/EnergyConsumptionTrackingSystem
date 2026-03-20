@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\EnergyTrackerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\tips\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\tips\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\controllers\\tipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\controllers\\tipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\controllers\\energycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\controllers\\energycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\models\\energyconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\models\\energyconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\helpers\\calculationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\helpers\\calculationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\models\\energyusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\models\\energyusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\energy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\energy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\energy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\energy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312203942_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnergyTrackerProject\\Migrations\\20260312203942_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312202247_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnergyTrackerProject\\Migrations\\20260312202247_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312202036_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnergyTrackerProject\\Migrations\\20260312202036_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312201709_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnergyTrackerProject\\Migrations\\20260312201709_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\energy\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\energy\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\energy\\track.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\energy\\track.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\makwa\\OneDrive\\Desktop\\EnergyTracker\\Models\\EnergyUsage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|d:\\new folder\\energytrackerproject\\energytrackerproject\\migrations\\20260312204349_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D588134A-E732-44C9-87D9-1571F09D3C9D}|EnergyTrackerProject\\EnergyTrackerProject.csproj|solutionrelative:energytrackerproject\\migrations\\20260312204349_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:30:51.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Tips\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Tips\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Tips\\Index.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Tips\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:57:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipsController.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\TipsController.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Controllers\\TipsController.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\TipsController.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Controllers\\TipsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:55:46.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Device\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Device\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Device\\Edit.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Device\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:55:03.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:29:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:29:55.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnergyConsumption.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\EnergyConsumption.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Models\\EnergyConsumption.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\EnergyConsumption.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Models\\EnergyConsumption.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:13:47.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwHcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T16:06:38.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:29:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Device\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Device\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Device\\Index.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Device\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T19:52:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnergyController.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\EnergyController.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Controllers\\EnergyController.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Controllers\\EnergyController.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Controllers\\EnergyController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:30:04.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculationHelper.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Helpers\\CalculationHelper.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Helpers\\CalculationHelper.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Helpers\\CalculationHelper.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Helpers\\CalculationHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:05:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:32:09.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:30:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnergyUsage.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\EnergyUsage.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Models\\EnergyUsage.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\EnergyUsage.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Models\\EnergyUsage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:29:15.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:28:27.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Energy\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\Index.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Energy\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T19:33:45.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\create.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Energy\\create.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\create.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Energy\\create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T19:34:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Models\\Device.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\Device.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:29:07.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260312204349_InitialCreate.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312204349_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Migrations\\20260312204349_InitialCreate.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312204349_InitialCreate.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Migrations\\20260312204349_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:43:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\appsettings.json",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\appsettings.json",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\appsettings.json",
+              "RelativeToolTip": "EnergyTrackerProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T17:28:14.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Program.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Program.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Program.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:28:40.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260312203942_InitialCreate.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312203942_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Migrations\\20260312203942_InitialCreate.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312203942_InitialCreate.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Migrations\\20260312203942_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:39:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Models\\User.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Models\\User.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:56:35.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Device\\Create.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Device\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Device\\Create.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Device\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:31:02.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260312201709_last.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312201709_last.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Migrations\\20260312201709_last.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312201709_last.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Migrations\\20260312201709_last.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:17:09.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260312202247_InitialCreate.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312202247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Migrations\\20260312202247_InitialCreate.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312202247_InitialCreate.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Migrations\\20260312202247_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:22:47.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260312202036_InitialCreate.cs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312202036_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Migrations\\20260312202036_InitialCreate.cs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Migrations\\20260312202036_InitialCreate.cs",
+              "RelativeToolTip": "EnergyTrackerProject\\Migrations\\20260312202036_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:20:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\Report.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Energy\\Report.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\Report.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Energy\\Report.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:31:48.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Track.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\Track.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\Energy\\Track.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\Energy\\Track.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\Energy\\Track.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:31:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EnergyTrackerProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T19:34:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnergyUsage.cs",
+              "DocumentMoniker": "C:\\Users\\makwa\\OneDrive\\Desktop\\EnergyTracker\\Models\\EnergyUsage.cs",
+              "ToolTip": "C:\\Users\\makwa\\OneDrive\\Desktop\\EnergyTracker\\Models\\EnergyUsage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:54:35.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.fs",
+              "DocumentMoniker": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Program.fs",
+              "RelativeDocumentMoniker": "EnergyTrackerProject\\Program.fs",
+              "ToolTip": "D:\\New folder\\EnergyTrackerProject\\EnergyTrackerProject\\Program.fs",
+              "RelativeToolTip": "EnergyTrackerProject\\Program.fs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-12T15:55:51.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

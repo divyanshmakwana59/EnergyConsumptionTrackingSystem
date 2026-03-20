@@ -1,0 +1,22 @@
+﻿@model IEnumerable<EnergyTrackerProject.Models.EnergyUsage>
+
+<h2>Energy Report</h2>
+
+<table class="table">
+
+	<tr>
+		<th>Date</th>
+		<th>Energy</th>
+		<th>Cost</th>
+	</tr>
+
+	@foreach (var r in Model)
+	{
+		<tr>
+			<td>@r.Date</td>
+			<td>@r.EnergyConsumed</td>
+			<td>₹@r.Cost</td>
+		</tr>
+	}
+
+</table>

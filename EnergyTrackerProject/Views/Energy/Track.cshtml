@@ -1,0 +1,21 @@
+﻿@model EnergyTrackerProject.Models.EnergyUsage
+
+<h2>Track Energy Usage</h2>
+
+<form method="post">
+
+	<label>Device Id</label>
+	<input name="DeviceId" class="form-control" />
+
+	<label>Power Rating</label>
+	<input name="powerRating" class="form-control" />
+
+	<label>Hours Used</label>
+	<input asp-for="HoursUsed" class="form-control" />
+
+	<label>Date</label>
+	<input asp-for="Date" type="date" class="form-control" />
+
+	<button class="btn btn-primary mt-2">Calculate</button>
+
+</form>
